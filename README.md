@@ -8,4 +8,6 @@
   • Press e to send a link to your phone with email.
   • Press s to sign in and enable more options.
 
-  For example: click"a" (if you have  Android emulator.)    
+4)open Simulator
+
+5)For example: click"a" (if you have  Android emulator.)    
