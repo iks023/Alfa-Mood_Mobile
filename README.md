@@ -1,19 +1,11 @@
-# React Native Morph SVG & Gradient animation
+# React Native Alfa Mood 
 
-Youtube tutorial:
+1)npm install
+2)npm start
+3) To run the app with live reloading, choose one of:
+  • Scan the QR code above with the Expo app (Android) or the Camera app (iOS).
+  • Press a for Android emulator.
+  • Press e to send a link to your phone with email.
+  • Press s to sign in and enable more options.
 
-[![React Native Morph SVG & Gradient animation Youtube tutorial](react-native-morph-svg-and-gradient-animation.png)](https://www.youtube.com/watch?v=JlHur-m5uVo)
-
-In this video we'll use Popmotion Pure to morph SVGs with [Flubber](https://github.com/veltman/flubber) and also animate the LinearGradients with [React Native CSS Gradient](https://github.com/catalinmiron/react-native-css-gradient) in React Native.
-
-- **Dribbble design**: https://dribbble.com/shots/3828382-Feedback
-- **Expo:** https://expo.io/
-- **Popmotion Pose**: https://popmotion.io/pure/
-- **Flubber**: https://github.com/veltman/flubber
-- **React Native CSS Gradient**: https://github.com/catalinmiron/react-native-css-gradient
-- **SVG from vectr**: https://vectr.com/catalinmiron/b9Z9QhgW0.svg?width=166&height=136&select=b9Z9QhgW0page0
-
-You can find me on:
-
-- Github: http://github.com/catalinmiron
-- Twitter: http://twitter.com/mironcatalin
+  For example: click"a" (if you have  Android emulator.)    
