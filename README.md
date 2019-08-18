@@ -1,7 +1,7 @@
 # React Native Alfa Mood 
 
-1)npm install
-2)npm start
+1)'npm install'
+2)'npm start'
 3) To run the app with live reloading, choose one of:
   • Scan the QR code above with the Expo app (Android) or the Camera app (iOS).
   • Press a for Android emulator.
@@ -10,4 +10,4 @@
 
 4)open Simulator
 
-5)For example: click"a" (if you have  Android emulator.)    
+5)For example: press"a" (if you have  Android emulator.)    
